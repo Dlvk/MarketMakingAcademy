@@ -1,4 +1,4 @@
-Market Making Learning Path
+Market Making Academy
 
 Overview
 
@@ -25,8 +25,8 @@ Getting Started
 
 1. Clone the repository:
 
-git clone git@github.com:Dlvk/Market-Making-Learning-Path.git  
-cd Market-Making-Learning-Path
+git clone git@github.com:Dlvk/MarketMakingAcademy.git  
+cd MarketMakingAcademy
 
 
 2. Install dependencies (if applicable):

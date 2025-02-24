@@ -20,22 +20,27 @@ Module 11-12: Risk Management & Strategy Optimization - Enhancing trading effici
 
 Extras: Tools, resources, and community recommendations for continuous learning.
 
+
 Getting Started
 
-Clone the repository:
+1. Clone the repository:
 
-git clone https://github.com/Dlvk/Market-Making-Learning-Path.git  
-cd Market-Making-Learning-Path  
+git clone git@github.com:Dlvk/Market-Making-Learning-Path.git  
+cd Market-Making-Learning-Path
 
-Install dependencies (if applicable):
 
-pip install -r requirements.txt  
+2. Install dependencies (if applicable):
 
-Follow the learning modules and implement strategies based on the provided guidance.
+pip install -r requirements.txt
+
+
+3. Follow the learning modules and implement strategies based on the provided guidance.
+
+
 
 Contribution
 
-Contributions are welcome! We encourage traders, developers, and analysts to submit issues, pull requests, and suggestions to enhance the repository. Adding new modules, case studies, or improvements to existing content is highly appreciated.
+We welcome contributions from traders, developers, and analysts! If you have suggestions for improvements, new modules, or case studies, please submit an issue or open a pull request.
 
 License
 
@@ -44,4 +49,12 @@ This repository is licensed under the MIT License. See the LICENSE file for deta
 Contact
 
 For questions, discussions, or collaboration, use GitHub Issues or Discussions. Engage with the trading community to expand your knowledge and refine your strategies.
+
+Acknowledgments
+
+This learning path was developed using various financial resources and tools. Special thanks to contributors and industry experts who have helped shape this repository.
+
+
+
+I’ve refined your README to align with the Market Making Learning Path repository, improving clarity and organization. Let me know if you need further tweaks!
 

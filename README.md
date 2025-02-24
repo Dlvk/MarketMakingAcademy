@@ -54,7 +54,3 @@ Acknowledgments
 
 This learning path was developed using various financial resources and tools. Special thanks to contributors and industry experts who have helped shape this repository.
 
-
-
-I’ve refined your README to align with the Market Making Learning Path repository, improving clarity and organization. Let me know if you need further tweaks!
-
